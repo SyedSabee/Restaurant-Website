@@ -2,12 +2,12 @@
 This is a simple yet elegant restaurant website showcasing various features and menu items.
 
 # Table of Contents
-  - Introduction
-  - Features
-  - Menu
-  - Footer
-  - Project Output
-  - Website Link
+  - [Introduction](#Introduction)
+  - [Features](#Features)
+  - [Menu](#Menu)
+  - [Footer](#Footer)
+  - [Project Output](#Project-Output)
+  - [Website Link](#Website-Link)
 
 # Introduction
 The website aims to provide users with information about the restaurant, its offerings, and its services. It utilizes modern design principles to create an engaging and visually appealing experience for visitors.
@@ -31,10 +31,10 @@ The footer section contains essential links and information:
   - Support: Information about the restaurant, privacy policy, and terms & conditions.
   - Newsletter: Users can subscribe to the newsletter and follow the restaurant on social media platforms.
 
-# Project Output
+# Project-Output
 
 https://github.com/SyedSabee/Restaurant-Website/assets/145167243/a9f57a65-cf3e-4ba7-b8c0-6f716d49505e
 
-# Website Link
+# Website-Link
 
 [Restaurant Website](https://syedsabee.github.io/Restaurant-Website/)
